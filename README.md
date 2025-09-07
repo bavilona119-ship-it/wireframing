@@ -6,9 +6,17 @@ Navigation: Shows how users will move through the site or application.
 Content Placement: Indicates where text, images, and other content will be positioned.
 Functionality: Outlines key functionalities and interactions.
 
-# 2. Low-Fidelity vs. High-Fidelity Wireframes
-Low-Fidelity Wireframes: Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
-High-Fidelity Wireframes: More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
+# 2. Types of Wireframes
+
+Wireframes can be categorized into low-fidelity and high-fidelity, depending on the level of detail and realism they provide. Each type serves a distinct purpose in the design process.
+
+Low-Fidelity Wireframes
+Low-fidelity wireframes are simple, rough sketches or outlines that focus on layout, structure, and functionality rather than detailed visuals. They often use placeholders for images and text (e.g., boxes, lines, and “Lorem Ipsum” text). These wireframes are typically created in the early stages of design to brainstorm ideas, validate user flows, and gather quick feedback without investing too much time in visuals.
+Example Use Case: Mapping out the navigation structure of a mobile app to ensure users can easily access key features.
+
+High-Fidelity Wireframes
+High-fidelity wireframes are more polished and detailed, often resembling the final product. They include accurate spacing, typography, images, colors, and interactive elements. These wireframes are usually created in the later stages of design, when the team is ready to refine details, validate usability, and present realistic previews to stakeholders.
+Example Use Case: Demonstrating the full layout of a website homepage with real product images, branding, and call-to-action buttons..
 
 # 3. Wireframing Tools
 Focus on Figma: Discover why Figma is a powerful tool for wireframing, with its collaborative features and design capabilities.
